@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d584e8f6-cbb2-47ef-935d-c358282018cf" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/cmake-build-debug/_deps/fmt-src" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="1.1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2QCBEPddi0NZIhhmgkoIMxdKUjY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "9.1.0",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "CPPToolchains",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d584e8f6-cbb2-47ef-935d-c358282018cf" name="Changes" comment="" />
+      <created>1684847570746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684847570746</updated>
+      <workItem from="1684847572513" duration="4000" />
+      <workItem from="1684847657519" duration="306000" />
+      <workItem from="1684847984508" duration="672000" />
+      <workItem from="1684848678113" duration="4424000" />
+      <workItem from="1684853128183" duration="671000" />
+      <workItem from="1684855116562" duration="9000" />
+      <workItem from="1684866928153" duration="11950000" />
+      <workItem from="1684935265300" duration="21469000" />
+      <workItem from="1685020402491" duration="64170000" />
+      <workItem from="1685291293982" duration="4000" />
+      <workItem from="1685386934390" duration="3925000" />
+      <workItem from="1685431157115" duration="587000" />
+      <workItem from="1685548529372" duration="50189000" />
+      <workItem from="1685649341588" duration="6809000" />
+      <workItem from="1685656463705" duration="2223000" />
+      <workItem from="1685661665457" duration="1293000" />
+      <workItem from="1685701189992" duration="22061000" />
+      <workItem from="1685725581788" duration="10022000" />
+      <workItem from="1685738007908" duration="115000" />
+      <workItem from="1685893295661" duration="9000" />
+      <workItem from="1685893368684" duration="6000" />
+      <workItem from="1685893399139" duration="8000" />
+      <workItem from="1685994492367" duration="401000" />
+      <workItem from="1686601813882" duration="10182000" />
+      <workItem from="1687113978016" duration="2000" />
+      <workItem from="1688067165908" duration="410000" />
+      <workItem from="1694630502021" duration="395000" />
+      <workItem from="1694630938825" duration="368000" />
+      <workItem from="1699566396263" duration="882000" />
+      <workItem from="1728989517453" duration="30000" />
+      <workItem from="1728989568961" duration="24000" />
+      <workItem from="1728989647398" duration="12000" />
+      <workItem from="1734368214039" duration="65000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+</project>
