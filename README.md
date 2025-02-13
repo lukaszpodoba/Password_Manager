@@ -24,7 +24,7 @@
   - Includes functions `encrypt` and `decrypt` for securing the passwords.
   - Provides utilities to convert between text lines and `Password` objects.
 
-![XOR Gate](https://www.google.com/search?sca_esv=abfc99f64281ab7f&rlz=1C5CHFA_enPL1025PL1025&sxsrf=AHTn8zqHzDiG2nUDcCPionEWy-L1bYLrVw:1739448569094&q=xor+gate&udm=2&fbs=ABzOT_C6HZESFBpD-a6wBwrIm2041RevU0T3J6J8ChyWSMUzXpQcs9IBg_JPcxguI_6368qJoebdPzCfPr234SkajgK_K3Vfx92eqV5d3fcoF1LFckIAwyk_zdrk9lrEvf_5BHHb_tuBGmg6TIaP3IQBZXckf2ZNhjMSuZt9LwIrJxnEqeXUv2l4AF8cF8IZDWfJ94Z48ZCW&sa=X&sqi=2&ved=2ahUKEwjomMPwzsCLAxU1R_EDHSPBAzUQtKgLegQIFxAB&biw=1837&bih=846&dpr=1#vhid=LgYC0AU9iC-gxM&vssid=mosaic)
+![XOR Gate](https://www.gsnetwork.com/wp-content/uploads/2023/01/xor-gate-truth-table.jpg)
 
 ### User Interaction
 - **Files**: `Menu.h` / `Menu.cpp`
