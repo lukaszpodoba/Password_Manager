@@ -24,7 +24,7 @@
   - Includes functions `encrypt` and `decrypt` for securing the passwords.
   - Provides utilities to convert between text lines and `Password` objects.
 
-![XOR Gate](https://www.google.com/imgres?q=xor%20gate&imgurl=https%3A%2F%2Fwww.analog.com%2Fen%2F_%2Fmedia%2Fanalog%2Fen%2Fdesign-center%2Fglossary%2Fxor-gate-symbol.jpg%3Frev%3Db3d6c2e239cd4f6eba77eacf0b65be9c&imgrefurl=https%3A%2F%2Fwww.analog.com%2Fen%2Fresources%2Fglossary%2Fxor-gate.html&docid=eXEGOswbb7Td5M&tbnid=QuUwKrjdh7ZMpM&vet=12ahUKEwiS6bXxzsCLAxV1FhAIHS9NB8QQM3oECBsQAA..i&w=326&h=206&hcb=2&ved=2ahUKEwiS6bXxzsCLAxV1FhAIHS9NB8QQM3oECBsQAA)
+![XOR Gate](https://www.google.com/search?sca_esv=abfc99f64281ab7f&rlz=1C5CHFA_enPL1025PL1025&sxsrf=AHTn8zqHzDiG2nUDcCPionEWy-L1bYLrVw:1739448569094&q=xor+gate&udm=2&fbs=ABzOT_C6HZESFBpD-a6wBwrIm2041RevU0T3J6J8ChyWSMUzXpQcs9IBg_JPcxguI_6368qJoebdPzCfPr234SkajgK_K3Vfx92eqV5d3fcoF1LFckIAwyk_zdrk9lrEvf_5BHHb_tuBGmg6TIaP3IQBZXckf2ZNhjMSuZt9LwIrJxnEqeXUv2l4AF8cF8IZDWfJ94Z48ZCW&sa=X&sqi=2&ved=2ahUKEwjomMPwzsCLAxU1R_EDHSPBAzUQtKgLegQIFxAB&biw=1837&bih=846&dpr=1#vhid=LgYC0AU9iC-gxM&vssid=mosaic)
 
 ### User Interaction
 - **Files**: `Menu.h` / `Menu.cpp`
